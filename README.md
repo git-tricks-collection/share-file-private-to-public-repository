@@ -1,6 +1,6 @@
 # share-file-private-to-public-repository
 
-This pipeline make possible to share (or simple sync) a private file from a private repository, and update it automatically after an original file update, in simple 5 steps.
+This pipeline make possible to share (or simple sync) a private file from a private repository, and update it automatically after an original file update, in simple 4 steps.
 
   1) copy the below file in you private repository in ".github/workflows/sync-file.yml"
   2) create a secrets.GIT_USERNAME and secrets.GIT_EMAIL
